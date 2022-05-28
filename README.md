@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abdulwahab151909
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
+- 👨🏽‍💼 Find me on LinkedIn (abdulwahabapk)
 - 📫 Reach me out at @AbdulWahab_Dev (twitter)
 
 <!---
